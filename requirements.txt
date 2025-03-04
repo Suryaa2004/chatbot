@@ -3,6 +3,4 @@ openai
 langchain
 langchain_openai
 python-dotenv
-uuid
-datetime
 langchain_commmunity
